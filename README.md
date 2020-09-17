@@ -78,7 +78,7 @@ BastionSecurityGroupId
 
 
 
-## Deploy WordPress Helm Chart with exter DB
+## Deploy WordPress Helm Chart with  HA RDS(MariaDB)
 
 Download eks-helm3-wordpress-deploy-RDS.yaml
 
