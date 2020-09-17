@@ -78,12 +78,17 @@ BastionSecurityGroupId
 
 DEPLOY WORDPRESS HELM CHART WITH EXTERNAL DB
 
+Download eks-helm3-wordpress-deploy-RDS.yaml
+
+Log into AWS
+
 Select:
  CloudFormation
    Create Stack
     Template is ready
 	Upload a template file
-	Choose amazon-eks-master.template.yaml
+	Choose eks-helm3-wordpress-deploy-RDS.yaml
+	
 Click on Next
 
 Fill in Parameters:
@@ -107,7 +112,6 @@ Create Stack
 Once stack create is complete
 Select stack name
 Select Outputs Tab
-
 Get the value of WPElbHostName
 In your preferred browser, enter the value of WPElbHostName
 Under the Meta section of the page, choose Log in
