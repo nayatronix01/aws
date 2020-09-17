@@ -12,14 +12,13 @@ Azure using ARM
 
 AWS using CloudFormation
 
-WordPress Multi-AZ
+[WordPress Multi-AZ](https://fwd.aws/6dEQ7)
 
-Filename - WP Multi-AZ VMs.yaml
+Filename - wp-multi-az-vms.yaml
 
-Download WP Multi-AZ VMs.yaml to local computer
+Download wp-multi-az-vms.yaml to local computer
 Log in to AWS
 
-Using Default VPC with subnets, IGW already set up
 Create SSH EC2 key pair
 
 Select:
@@ -27,7 +26,7 @@ Select:
    Create Stack
     Template is ready
 	Upload a template file
-	Choose WP Multi-AZ VMs.yaml
+	Choose wp-multi-az-vms.yaml
 Click on Next
 
 Enter Stack name
