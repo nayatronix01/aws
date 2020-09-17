@@ -1,4 +1,5 @@
-Used CloudFormation templates from the internet
+## CloudFormation templates for HA with VMs and HA with Containers. 
+All templates were downloaded from the internet
 
 ## WordPress HA
 
