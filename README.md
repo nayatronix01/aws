@@ -55,23 +55,13 @@ EKS
 
 [EKS Quick Launch New VPC](https://fwd.aws/6dEQ7)
 
-Download amazon-eks-master.template.yaml to local computer
-
 Click on link above
 Log in to AWS
 
 
-Create SSH EC2 key pair
-
-Select:
- CloudFormation
-   Create Stack
-    Template is ready
-	Upload a template file
-	Choose amazon-eks-master.template.yaml
 Click on Next
 
-Enter Stack name
+Enter Stack name if not entered already
 Edit parameters as required.
 Parameters to note:
 
