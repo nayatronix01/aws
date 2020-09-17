@@ -1,6 +1,3 @@
-# telios
-Telios Tasks
-
 
 Azure using ARM
 
