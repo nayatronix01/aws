@@ -12,7 +12,7 @@ Azure using ARM
 
 AWS using CloudFormation
 
-[WordPress Multi-AZ](https://fwd.aws/6dEQ7)
+WordPress Multi-AZ
 
 Filename - wp-multi-az-vms.yaml
 
