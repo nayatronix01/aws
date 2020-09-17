@@ -1,6 +1,6 @@
 Used CloudFormation templates from the internet
 
-WordPress HA
+## WordPress HA
 
 Filename - wp-multi-az-vms.yaml
 
@@ -38,7 +38,7 @@ Select Outputs Tab
 Copy URL into web browser
 
 
-EKS WordPress HA
+## EKS WordPress HA
 
 Filename - amazon-eks-master.template.yaml (if not using Quick Launch links)
 
@@ -77,7 +77,7 @@ BastionSecurityGroupId
 
 
 
-DEPLOY WORDPRESS HELM CHART WITH EXTERNAL DB
+## Deploy WordPress Helm Chart with exter DB
 
 Download eks-helm3-wordpress-deploy-RDS.yaml
 
