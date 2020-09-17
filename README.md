@@ -1,4 +1,4 @@
-AWS using CloudFormation
+Used CloudFormation templates from the internet
 
 WordPress HA
 
@@ -40,11 +40,12 @@ Copy URL into web browser
 
 EKS WordPress HA
 
+Filename - amazon-eks-master.template.yaml (if not using Quick Launch links)
 
 [EKS Quick Launch New VPC](https://fwd.aws/6dEQ7)
 [EKS Quick Launch Existing VPC](https://fwd.aws/e37MA)
 
-Click on link above
+Click on one of links above
 Log in to AWS
 
 
