@@ -54,6 +54,7 @@ EKS
 
 
 [EKS Quick Launch New VPC](https://fwd.aws/6dEQ7)
+[EKS Quick Launch Existing VPC](https://fwd.aws/e37MA)
 
 Click on link above
 Log in to AWS
