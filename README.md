@@ -1,18 +1,6 @@
-
-Azure using ARM
-
-[WordPress with SQL Replication]
-
-(https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fwordpress-mysql-replication%2Fazuredeploy.json)
-
-
-[AKS]
-(https://portal.azure.com/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2fAzure%2fazure-quickstart-templates%2fmaster%2f101-aks-advanced-networking%2fazuredeploy.json)
-
-
 AWS using CloudFormation
 
-WordPress Multi-AZ
+WordPress HA
 
 Filename - wp-multi-az-vms.yaml
 
@@ -50,7 +38,7 @@ Select Outputs Tab
 Copy URL into web browser
 
 
-EKS
+EKS WordPress HA
 
 
 [EKS Quick Launch New VPC](https://fwd.aws/6dEQ7)
