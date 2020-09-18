@@ -641,5 +641,4 @@ Outputs:
     Value: !GetAtt EKSStack.Outputs.BastionSecurityGroup
   NodeGroupSecurityGroup:
     Value: !GetAtt EKSStack.Outputs.NodeGroupSecurityGroup
-  KubeGetLambdaArn:
-    Value: !GetAtt EKSStack.Outputs.KubeGetLambdaArn
+ 
