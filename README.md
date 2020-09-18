@@ -119,4 +119,7 @@ Under the Meta section of the page, choose Log in
 Enter the WordPress Username and Password you created in the stack creation  
 
 
+## NOTES  
+Issue with EKS CF helm chart deployment. KubeGetLambdaArn does not appear in stack output or in CF template This will require further investigation.  WP Helm install can be done manually by SSH to bastion host and installing helm, then running chart or by importing cluster in Rancher and using WP Helm chart in apps.  
+A pipeline can be configured to automate CF deployment.  
 
