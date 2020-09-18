@@ -641,11 +641,5 @@ Outputs:
     Value: !GetAtt EKSStack.Outputs.BastionSecurityGroup
   NodeGroupSecurityGroup:
     Value: !GetAtt EKSStack.Outputs.NodeGroupSecurityGroup
-  KubeConfigPath:
-    Value: !GetAtt EKSStack.Outputs.KubeConfigPath
-  HelmLambdaArn:
-    Value: !GetAtt EKSStack.Outputs.HelmLambdaArn
-  KubeManifestLambdaArn:
-    Value: !GetAtt EKSStack.Outputs.KubeManifestLambdaArn
   KubeGetLambdaArn:
     Value: !GetAtt EKSStack.Outputs.KubeGetLambdaArn
